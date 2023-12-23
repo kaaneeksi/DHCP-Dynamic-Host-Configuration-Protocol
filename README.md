@@ -3,8 +3,7 @@ DHCP (Dynamic Host Configuration Protocol) ağınızda bulunan bilgisayar, table
 
 ## DHCP Nasıl Çalışır ?
 
-* Bir ağa bağlandığımızda eğer manuel olarak kendimize bir IP adresi atamadıysak, ağda herhangi bir DHCP sunucusunun olup 
-* olmadığını görmek için bir istek göndeririz **(DHCP Discover)**.
+* Bir ağa bağlandığımızda eğer manuel olarak kendimize bir IP adresi atamadıysak, ağda herhangi bir DHCP sunucusunun olup olmadığını görmek için bir istek göndeririz **(DHCP Discover)**.
 * Daha sonra DHCP sunucusu bize o ağda olmayan bir IP adresini gönderir.**(DHCP Offer)**. 
 * Bizde IP adresini aldığımızı onaylayan bir yanıt göndeririz.**(DHCP Request)** 
 * Son olarak DHCP sunucusu bize işlemin tamamlandığını söyleyen bir bilgilendirme yanıtı yollar.**(DHCP ACK)**
