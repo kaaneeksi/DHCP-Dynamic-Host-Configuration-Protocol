@@ -9,5 +9,6 @@ DHCP (Dynamic Host Configuration Protocol) ağınızda bulunan bilgisayar, table
 * Bizde IP adresini aldığımızı onaylayan bir yanıt göndeririz.**(DHCP Request)** 
 * Son olarak DHCP sunucusu bize işlemin tamamlandığını söyleyen bir bilgilendirme yanıtı yollar.**(DHCP ACK)**
 
+> TryHackMe
 
-![DHCP]()
+![DHCP](https://github.com/kaaneeksi/DHCP-Dynamic-Host-Configuration-Protocol/blob/main/G%C3%B6rsel/dhcp.png?raw=true)
